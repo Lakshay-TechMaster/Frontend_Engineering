@@ -1,0 +1,25 @@
+body{
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+h1{
+    color: rgb(0, 0, 142);
+}
+h2{
+    color: rgb(1, 156, 1);
+}
+p{  
+    font-size: 18px;
+}w
+ul{
+    list-style-position: inside;
+    display: inline-block;
+    text-align: left;
+}
+iframe{
+    display: block;
+    margin: 20px auto;
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 10px;
+}
